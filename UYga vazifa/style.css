@@ -1,0 +1,323 @@
+.navbar {
+  background-color: #c4c4c4;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  justify-content: space-between;
+}
+
+.Jelong {
+  color: aliceblue;
+  font-size: 20px;
+  padding-left: 50px;
+}
+
+.text {
+  font-size: 18px;
+  list-style: none;
+  margin: 30px;
+  font-family: sans-serif;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.btn {
+  width: 100px;
+  height: 35px;
+  font-size: 15px;
+  font-family: sans-serif;
+  border-radius: 10px;
+  background-color: #03b3a1;
+  margin-right: 50px;
+  border: none;
+  color: white;
+}
+
+.body {
+  background-color: #c4c4c4;
+  height: 100px;
+  justify-content: end;
+  display: flex;
+}
+
+.div2 {
+  height: 100px;
+  width: 400px;
+  margin-right: 50px;
+  color: white;
+}
+
+.body2 {
+  background-color: #c4c4c4;
+  height: auto;
+  display: flex;
+  height: 100px;
+  align-items: center;
+  justify-content: end;
+}
+
+.btn2 {
+  height: 45px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: #a7a3a3;
+  border: none;
+  color: white;
+  margin-right: 50px;
+}
+
+.main {
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+}
+
+.box {
+  margin-top: 40px;
+  height: 120px;
+  width: 270px;
+}
+
+.p {
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #232222;
+}
+
+.p1 {
+  padding-left: 60px;
+  font-family: sans-serif;
+}
+
+.box2 {
+  width: 1520px;
+  display: flex;
+  height: 120px;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  width: 120px;
+  margin: 80px;
+}
+
+.main1 {
+  height: 100px;
+  width: 250px;
+  display: flex;
+  margin-left: 650px;
+  align-items: center;
+}
+
+.twister {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Roja {
+  width: 250px;
+  height: 350px;
+  background-color: rgb(219, 219, 219);
+  border-radius: 28px;
+  margin: 40px;
+}
+
+.each {
+  width: 220px;
+  height: 230px;
+  background-color: rgb(190, 184, 184);
+  margin-left: 15px;
+  margin-top: 15px;
+  border-radius: 20px;
+}
+
+.bold {
+  padding-left: 15px;
+  font-family: sans-serif;
+}
+
+.p2 {
+  font-family: sans-serif;
+  padding-left: 15px;
+  color: rgb(63, 62, 62);
+}
+
+.dollar {
+  padding-left: 15px;
+  color: #04a493;
+  font-family: sans-serif;
+}
+
+.down {
+  height: 500px;
+  display: flex;
+  padding-left: 135px;
+}
+
+.down2 {
+  width: 450px;
+  height: 450px;
+}
+
+.in {
+  width: 250px;
+  height: 330px;
+  background-color: #c4c4c4;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+.h1 {
+  margin-right: 100px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-weight: 700;
+}
+
+.p3 {
+  padding-top: 50px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.number {
+  color: #04a493;
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.number1 {
+  padding-left: 230px;
+}
+
+.tx {
+  padding-left: 100px;
+}
+
+.btn3 {
+  width: 150px;
+  height: 50px;
+  border: none;
+  background-color: #03b3a1;
+  border-radius: 15px;
+  color: aliceblue;
+  font-size: 18px;
+}
+
+.nav {
+  width: 1530px;
+  height: 1300px;
+  align-items: center;
+}
+
+.pp {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: #c4c4c4;
+  padding-left: 250px;
+}
+.h11 {
+  font-family: sans-serif;
+  font-weight: bolder;
+  padding-left: 250px;
+  font-size: 40px;
+}
+
+.number2 {
+  font-size: 80px;
+  font-family: sans-serif;
+  color: #03b3a1;
+  margin-top: 70px;
+}
+
+.spn {
+  color: white;
+  font-size: 30px;
+}
+
+.div4 {
+  width: 600px;
+  height: 250px;
+  margin-left: 250px;
+  display: flex;
+}
+
+.behruz {
+  font-size: 30px;
+  font-weight: 700;
+  margin-left: 40px;
+  font-family: sans-serif;
+  margin-top: 30px;
+}
+
+.p4 {
+  font-size: 20px;
+  color: #c4c4c4;
+}
+
+
+.div5 {
+  margin-left: 250px;
+  width: 1100px;
+  height: 370px;
+  display: flex;
+  justify-content: center;
+}
+
+.div6 {
+  width: 300px;
+  height: 350px;
+  border-radius: 40px;
+  background-color:#C4C4C4;
+  margin:10px;
+}
+
+.dw {
+  width: 1500px;
+  height: 500px;
+  background-color: #000C17;
+  display: flex;
+  justify-content: center;
+}
+
+.dw1 {
+  padding-left: 50px;
+  font-size: 25px;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+.dw2 {
+  width: 220px;
+  height: 300px;
+  margin-left: 50px;
+}
+
+.information {
+  font-size: 20px;
+  padding-top: 10px;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+
+.about {
+  color: #afa9a9;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.img1 {
+  width: 45px;
+  padding-top: 20px;
+  margin: 5px;
+}
